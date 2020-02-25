@@ -10,9 +10,10 @@ This is a practice form validator. It does the following:
 - will verify that both passwords math
 
 ## Technologies
-HTML
-CSS 
-JavaScript
+- Responsive Design
+- HTML
+- CSS 
+- JavaScript
 
 ## User story
 AS A person logging into a website,
