@@ -9,6 +9,9 @@ This is a practice form validator. It does the following:
 - will let users know if the length of their entry is to long or not long enough
 - will verify that both passwords math
 
+##
+![Picture of the site](./assets/form.png)
+
 ## Technologies
 - Responsive Design
 - HTML
